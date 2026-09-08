@@ -18,17 +18,19 @@ The main objectives of this project are to:
 
    - Identify the bottom-performing products.
 
-Analyze sales trends over time.
+   - Analyze sales trends over time.
 
-Compare sales, profit, and quantity between different date ranges.
+   - Compare sales, profit, and quantity between different date ranges.
 
-Analyze average discounts across promotion categories.
+   - Analyze average discounts across promotion categories.
 
-Understand sales distribution across cities.
+   - Understand sales distribution across cities.
 
-Provide detailed transaction-level analysis.
+   - Provide detailed transaction-level analysis.
 
-Build an interactive dashboard using slicers and Power BI visuals.
+   - Build an interactive dashboard using slicers and Power BI visuals.
+
+
 
 <img width="1024" height="550" alt="Image" src="https://github.com/user-attachments/assets/a1df2f29-a7f3-4f3c-a052-57ed1379bcac" />
 
