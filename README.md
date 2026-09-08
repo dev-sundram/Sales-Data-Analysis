@@ -142,6 +142,9 @@ The dashboard identifies the lowest-performing products, including:
 
 The same page also provides **Top 5 and Bottom 5 analysis by quantity sold and profit**.
 
+<img width="846" height="485" alt="Screenshot 2026-09-09 002115" src="https://github.com/user-attachments/assets/9c921014-3a3a-41af-b872-620aa2244c8b" />
+
+
 ---
 
 ## 3. Sales, Profit & Quantity Comparison
@@ -153,6 +156,8 @@ The comparison page allows users to select two different date ranges and compare
 - **Total Quantity Sold**
 
 This makes it easier to evaluate how business performance changed between two selected periods.
+
+<img width="860" height="479" alt="Screenshot 2026-09-09 002102" src="https://github.com/user-attachments/assets/05ec1e34-c0d8-4f43-a88e-3f995026968f" />
 
 ---
 
@@ -166,6 +171,9 @@ This functionality can be used for analysis such as:
 - Before vs. after promotion analysis
 - Year/date-range comparison
 - Sales performance comparison
+
+  <img width="855" height="487" alt="Screenshot 2026-09-09 002124" src="https://github.com/user-attachments/assets/b90f0a54-86ac-46eb-a2db-35ab0bd59473" />
+
 
 ---
 
@@ -201,6 +209,8 @@ Interactive slicers allow users to filter the table by:
 - Customer Name
 - Product Name
 - Promotion ID
+
+<img width="866" height="489" alt="Screenshot 2026-09-09 002131" src="https://github.com/user-attachments/assets/34720413-9dc2-4c3c-894b-ba10171f88ce" />
 
 ---
 
