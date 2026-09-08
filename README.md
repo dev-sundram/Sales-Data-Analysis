@@ -272,7 +272,7 @@ Then you can display them in this README using:
 # 📁 Project Structure
 
 ```text
-Amazon-Sales-Data-Analysis/
+V-Mart-Sales-Data-Analysis/
 │
 ├── README.md
 │
