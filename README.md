@@ -142,8 +142,7 @@ The dashboard identifies the lowest-performing products, including:
 
 The same page also provides **Top 5 and Bottom 5 analysis by quantity sold and profit**.
 
-<img width="846" height="485" alt="Screenshot 2026-09-09 002115" src="https://github.com/user-attachments/assets/9c921014-3a3a-41af-b872-620aa2244c8b" />
-
+<img width="860" height="479" alt="Screenshot 2026-09-09 002102" src="https://github.com/user-attachments/assets/05ec1e34-c0d8-4f43-a88e-3f995026968f" />
 
 ---
 
@@ -157,7 +156,8 @@ The comparison page allows users to select two different date ranges and compare
 
 This makes it easier to evaluate how business performance changed between two selected periods.
 
-<img width="860" height="479" alt="Screenshot 2026-09-09 002102" src="https://github.com/user-attachments/assets/05ec1e34-c0d8-4f43-a88e-3f995026968f" />
+
+<img width="846" height="485" alt="Screenshot 2026-09-09 002115" src="https://github.com/user-attachments/assets/9c921014-3a3a-41af-b872-620aa2244c8b" />
 
 ---
 
