@@ -1,4 +1,34 @@
-# V-Mart Sales-Data-Analysis
+# V-Mart Sales Data Analysis 📊
+
+V-Mart Sales Data Analysis is an interactive Power BI business intelligence project built to analyze sales performance, profitability, product performance, customer activity, promotions, discounts, and sales trends.
+
+The project transforms transactional sales data into an interactive dashboard that helps identify high-performing products, low-performing products, sales trends, promotion performance, and differences between selected time periods.
+
+The dashboard is designed as a portfolio project to demonstrate practical skills in Power BI, Power Query, DAX, data modeling, data visualization, and business analysis.
+
+🎯 Project Objectives
+
+  # The main objectives of this project are to: </ul>
+
+  # Analyze overall sales and profit performance. </ul>
+
+Track total quantity sold and order volume.
+
+Identify the top-performing products.
+
+Identify the bottom-performing products.
+
+Analyze sales trends over time.
+
+Compare sales, profit, and quantity between different date ranges.
+
+Analyze average discounts across promotion categories.
+
+Understand sales distribution across cities.
+
+Provide detailed transaction-level analysis.
+
+Build an interactive dashboard using slicers and Power BI visuals.
 
 <img width="1024" height="550" alt="Image" src="https://github.com/user-attachments/assets/a1df2f29-a7f3-4f3c-a052-57ed1379bcac" />
 
