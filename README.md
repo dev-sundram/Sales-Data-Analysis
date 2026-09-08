@@ -1,8 +1,8 @@
-# Amazon Sales Data Analysis 📊
+# V-Mart Sales Data Analysis 📊
 
 ## 📌 Project Overview
 
-**Amazon Sales Data Analysis** is an interactive **Power BI business intelligence project** built to analyze sales performance, profitability, product performance, customer activity, promotions, discounts, and sales trends.
+**V-Mart Sales Data Analysis** is an interactive **Power BI business intelligence project** built to analyze sales performance, profitability, product performance, customer activity, promotions, discounts, and sales trends.
 
 The project transforms transactional sales data into an interactive dashboard that helps identify high-performing products, low-performing products, sales trends, promotion performance, and differences between selected time periods.
 
@@ -110,6 +110,9 @@ The overview page provides a high-level view of business performance.
 - Sales trend by period
 
 The dashboard allows users to quickly understand overall performance and identify patterns in sales and profitability.
+
+<img width="851" height="458" alt="Screenshot 2026-09-09 002052" src="https://github.com/user-attachments/assets/ca09c514-ed9f-440a-b0d0-1c7ef7c806d4" />
+
 
 ---
 
