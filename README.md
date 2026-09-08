@@ -1,4 +1,4 @@
-# Sales-Data-Analysis
+# V-Mart Sales-Data-Analysis
 
 <img width="1024" height="550" alt="Image" src="https://github.com/user-attachments/assets/a1df2f29-a7f3-4f3c-a052-57ed1379bcac" />
 
