@@ -8,11 +8,11 @@ The dashboard is designed as a portfolio project to demonstrate practical skills
 
 🎯 Project Objectives
 
-  # The main objectives of this project are to: </ul>
+The main objectives of this project are to: 
 
-  # Analyze overall sales and profit performance. </ul>
+   <ul> overall sales and profit performance. </ul>
 
-Track total quantity sold and order volume.
+   <ul> Track total quantity sold and order volume.</ul>
 
 Identify the top-performing products.
 
