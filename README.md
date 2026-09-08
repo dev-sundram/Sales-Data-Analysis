@@ -10,13 +10,13 @@ The dashboard is designed as a portfolio project to demonstrate practical skills
 
 The main objectives of this project are to: 
 
-   <ul> overall sales and profit performance. </ul>
+   - overall sales and profit performance. 
 
-   <ul> Track total quantity sold and order volume.</ul>
+   - Track total quantity sold and order volume.
 
-Identify the top-performing products.
+   - Identify the top-performing products.
 
-Identify the bottom-performing products.
+   - Identify the bottom-performing products.
 
 Analyze sales trends over time.
 
